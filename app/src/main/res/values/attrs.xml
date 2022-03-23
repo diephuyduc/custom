@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="timer_style">
+        <attr name="showHours" format="boolean" />
+        <attr name="showMilliseconds" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="MyCustomViewStyle">
+        <attr name="customViewStyle" format="reference" />
+    </declare-styleable>
+</resources>

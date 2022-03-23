@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="my_text_size" parent="Widget.AppCompat.TextView">
+        <item name="android:width">300px</item>
+        <item name="android:textSize">300px</item>
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+</resources>
